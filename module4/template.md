@@ -25,21 +25,25 @@ Training Kit (https://learn.lambdaschool.com/ds/module/recedjanlbpqxic2r) explai
 
 Can you apply the templates to your topics? 
 
-1. Geographic Variation
+1. Geographic Variation:
+
 The price of a drone is way cheaper in China than any other part of the world.
 
-2. Trend related to the news
+2. Trend related to the news:
+
 Drones are helping prevent the spread of COVID-19 and in some countries they're also being used to
 enforce social distancing.
 
 3. Who does that?
+
 Theres is a huge growing sport in the sports industry in countries within europe
 and the US. Where Drone pilots have won up to $1mil in one day.
 
 in some countries in europe, Drones are being used by law enforcement to 
 enforce social distancing and also to fumigate to help the spread of COVID-19
 
-4. Answering a question people care about
+4. Answering a question people care about:
+
 What personal use can i do with a drone?
 
 A drone can used for entertainment or to take photos or videos from an aerial perspective. 
@@ -48,6 +52,7 @@ most beautiful footages that you can imagine and take shots from a bird-view whi
 could be imposible with a normal camera if you're not in an airplane itself.
 
 5. Valuable to businesses:
+
 Drones could be use to perform local deliveries.
 Today, companies like walgreens, CVS and other 
 pharmaceutical business are delivering drugs 
@@ -70,9 +75,11 @@ Its a very useful tool for agriculture. Drones are being use to fertilize, plant
 in a low cost and cutting the time than using human labor.
 
 6. What's the most popular?
+
 FPV Drones are the most popular with a bigger use\demand and fan base.
 
-7. Cost/Money rankings
+7. Cost/Money rankings:
+
 The most expensive drones are the ones used from agriculture. 
 They can range from $4,000 to $25,000. Due to the quality, size of the frame
 and really solid parts to be able to perform these hard works of agriculture.
@@ -104,12 +111,15 @@ From DS 2:
 Mac Scheffer, Play Calling in the NFL: The Road to Improvement
 
 Could you do a new hypothesis, for the same question?
+
 Yes
 
 Could you do a new question, for the same topic?
+
 Yes
 
 Could you do a new topic, with the same "style"?
+
 Yes
 
 ## Data
@@ -127,13 +137,16 @@ also Github
 ## You
 
 What do you care about?
+
 3D Printing
 
 What do you know about?
-I know how to 3D print properly and thr right way.
+
+I know how to 3D print properly and the right way.
 
 What decisions do you face?
-If i would be able to find any data on this topic
+
+If i would be able to find any data on this topic.
 
 ## Seven templates
 
@@ -154,11 +167,13 @@ have one.
 
 
 3. Who does that?
+
 People that lives in countries or states where the sales of guns are illegal.
 
 
 
-4. Answering a question people care about
+4. Answering a question people care about:
+
 A 3D printer could be used to print most of the 3d object that you can think of.
 
 Specially plastics objects. Even thought there is printers that have the capability
@@ -200,16 +215,20 @@ stick to the build plate.
 ## Examples
 
 What data storytelling example inspires you?
+
 From DS 2:
 Mac Scheffer, Play Calling in the NFL: The Road to Improvement
 
 Could you do a new hypothesis, for the same question?
+
 Yes
 
 Could you do a new question, for the same topic?
+
 Yes
 
 Could you do a new topic, with the same "style"?
+
 Yes
 
 ## Data
@@ -221,4 +240,5 @@ reddit\datasets
 also Github
 
 ## Idea conlusion:
+
 The idea that i'm leaning towards is the Drone. Because i have more years of experence building drones and as a certified drone pilot.
