@@ -220,5 +220,5 @@ kaggle.com\datasets
 reddit\datasets
 also Github
 
-
+## Idea conlusion:
 The idea that i'm leaning towards is the Drone. Because i have more years of experence building drones and as a certified drone pilot.
