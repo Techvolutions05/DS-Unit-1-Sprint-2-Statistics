@@ -11,12 +11,15 @@ working on for your project week.
 ## You
 
 What do you care about?
+
 Drones
 
 What do you know about?
+
 I know how to build a FPV Drone.
 
 What decisions do you face?
+
 The fact that i cant fly due to the quarentine
 
 ## Seven templates
